@@ -1,6 +1,5 @@
 import React from 'react'
 import { Button, Modal } from 'react-bootstrap'
-import { ListarProductos } from './ListarProductos'
 
 function Frutas(props) {
 

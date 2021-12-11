@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Container } from './container/Container';
 import './index.css';
 import { AppRouter } from './routers/AppRouter';
 import 'bootstrap/dist/css/bootstrap.min.css';
